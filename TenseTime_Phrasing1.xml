@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+	<phrase>
+		<speed> 8 </speed>
+		<tension> 9 </tension>
+	</phrase>
+	<phrase>
+		<speed> 5 </speed>
+		<tension> 7 </tension>
+    </phrase> 
+	<phrase>
+		<speed> 2 </speed>
+		<tension> 4</tension>
+    </phrase>
+	<phrase>
+		<speed> 6 </speed>
+		<tension> 1 </tension>
+    </phrase>
+	<phrase>
+		<speed> 8 </speed>
+		<tension> 8 </tension>
+    </phrase>
+	<phrase>
+		<speed> 10 </speed>
+		<tension> 2 </tension>
+    </phrase>
+</phrases>
